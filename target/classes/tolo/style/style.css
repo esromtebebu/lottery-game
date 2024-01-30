@@ -1,0 +1,89 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Nov 14, 2023, 7:11:10 PM
+    Author     : esrom
+*/
+
+.root {
+     /* -fx-background-image: url("../images/fortuna.jpg");    */
+     /* -fx-background-image: url("../images/logo.png"); */
+     -fx-background-color: #0093C6;
+     -fx-background-repeat: no-repeat;
+     -fx-background-size: cover;
+}
+
+#welcome-text {
+    -fx-font-size: 64px;
+    -fx-font-family: "Arial";
+    -fx-fill: #F9D200;
+    -fx-font-weight: bolder;
+ }
+
+ #result {
+    -fx-font-size: 32px;
+    -fx-font-family: "Arial";
+    -fx-fill: #F9D200;
+    -fx-font-weight: bold;
+ }
+
+ /* #welcome-text:hover {
+    -fx-font-size: 72px;
+    -fx-font-family: "Arial";
+    -fx-fill: #F9D200;
+    -fx-font-weight: bolder;
+ } */
+ 
+ /* #logo-rotate {
+    fx-transform: rotate(45, 50, 50);
+ } */
+
+ #copyright {
+    -fx-font-size: 12px;
+    -fx-font-family: "Arial";
+    -fx-fill: white;
+    -fx-font-weight: bold;
+ }
+
+ /* .ImageView:hover {
+    -fx-width: 45;
+    -fx-height: 45;
+ } */
+
+ .button {
+    -fx-text-fill: #0093C6;
+    -fx-boder: none;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-background-color: white;
+}
+
+#back-to-home {
+    -fx-background: none;
+    -fx-border: 0px
+}
+
+.label {
+    -fx-font-size: 12px;
+    -fx-font-family: "Arial";
+    -fx-text-fill: white;
+    -fx-font-weight: bold;  
+}
+
+.button:hover {
+    -fx-text-fill: #0093C6;
+    -fx-background-color: #F9D200;
+}
+
+#quit-home {
+    -fx-text-fill: red;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-background-color: white;
+}
+#quit-home:hover {
+    -fx-text-fill: white;
+    -fx-background-color: red;
+}

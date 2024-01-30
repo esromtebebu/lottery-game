@@ -1,0 +1,28 @@
+Todos:
+    - Home
+        - About
+    - TransView
+        - Animation with turning roulette
+    - View 2
+        - Animated drawn numbers reveal
+        - Colored explanations
+        - Animated bet amount reveal
+        - Exit
+        - Home
+        - Ask if save data
+        - Home button + "Do you want to quit?" popup
+Done:
+    - Home
+        - Statistics (Probability + data)
+        - Exit
+    - View 1
+        - Random numbers
+        - Pretty error X
+        - Home button
+    - View 2
+        - GridView
+    -TransView
+        - Compute odds  
+    - Rule
+        - Pretty
+        - Pretty home button
